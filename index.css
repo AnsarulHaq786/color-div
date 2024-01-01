@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.red
+{
+    height: 120px;
+    width: full;
+    background-color: red;
+}
+.green
+{
+    height: 120px;
+    width: full;
+    background-color: green;
+}
+.blue
+{ 
+    display: flex;
+    height: 220px;
+    width: full;
+    background-color: blue;
+}
+.pink
+{
+    margin: 4%;
+    padding: 1%;
+    height: 100px;
+    width: 450px;
+    background-color: pink;
+}
+.purple
+{
+    margin: 4%;
+    padding: 1%;
+    height: 100px;
+    width: 450px;
+    background-color: purple;
+}
+.yellow
+{
+    height: 140px;
+    width: full;
+    background-color: yellow;
+}
